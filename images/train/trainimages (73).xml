@@ -1,0 +1,25 @@
+<annotation>
+	<folder>train</folder>
+	<filename>trainimages (73).jpg</filename>
+	<path>/train/trainimages (73).jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pigeon</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>1</ymin>
+			<xmax>177</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>
